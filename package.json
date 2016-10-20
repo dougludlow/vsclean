@@ -1,0 +1,19 @@
+{
+  "name": "vsclean",
+  "version": "0.0.0",
+  "description": "Clean Visual Studio bin, obj folders.",
+  "main": "index.js",
+  "bin": {
+    "vsclean": "index.js"
+  },
+  "repository": {
+    "url": "https://github.com/dougludlow/vsclean.git",
+    "type": "git"
+  },
+  "author": "Douglas Ludlow <doug.ludlow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "shelljs": "^0.7.4"
+  }
+}
