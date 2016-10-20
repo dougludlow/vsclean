@@ -2,9 +2,8 @@
   "name": "vsclean",
   "version": "0.1.0",
   "description": "Clean Visual Studio bin, obj folders.",
-  "main": "index.js",
   "bin": {
-    "vsclean": "index.js"
+    "vsclean": "./bin/vsclean.js"
   },
   "repository": {
     "url": "https://github.com/dougludlow/vsclean.git",
