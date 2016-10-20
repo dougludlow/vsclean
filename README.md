@@ -7,12 +7,12 @@ Recursively removes all bin/obj folder from a Visual Studio solution.
 ## Installation
 
 ``` sh
-npm install -g vsclean
+> npm install -g vsclean
 ```
 
 ## Usage
 
 ``` sh
-cd path/to/solution
-vsclean
+> cd path/to/solution
+> vsclean
 ```
