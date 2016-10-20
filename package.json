@@ -1,6 +1,6 @@
 {
   "name": "vsclean",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Clean Visual Studio bin, obj folders.",
   "bin": {
     "vsclean": "./bin/vsclean.js"
